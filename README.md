@@ -1,5 +1,5 @@
 # unitarymerkle
-I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
+(TODO...) I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
 
 Each node is adjacent to exactly 4 other nodes, in an infinite size undirected-graph. A topology with surprisingly many automorphisms compared to any other topology as far as I know, and each of them uniquely and bigO(1)-addressable by merkle/hash id
 
