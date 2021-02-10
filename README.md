@@ -1,5 +1,5 @@
 # unitarymerkle
-(TODO...) I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
+(TODO...) I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work game-changingly better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
 
 This is either a disproof of https://en.wikipedia.org/wiki/One-way_function as it works bidirectionally in various combos, or a proof that P not equals NP, or an advance in the best known kind of pseudorandomnumbergenerator, or something like that. Maybe... And I want to present it, create something people can play with and experience and experiment with together, if I can... but like many other things I've thought of, difficulties often come up and I might get back to this when I overcome those...
 
