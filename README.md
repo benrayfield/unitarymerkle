@@ -1,5 +1,5 @@
 # unitarymerkle
-(TODO...) The reason I have not so far much pursued this is it is at first at least a trillion times slower than existing methods, but may become far faster than all existing methods, for some niche, in various bizarre mathematical ways. The reason for this is, there is no known bitstrings where x occurs in hash of concat(y,something0) and y occurs in hash of concat(x,something1), but that occurs every time in this model, or at least if the hash function is loosely interpreted similar to lazy-eval or multi-level of some kind.
+(TODO...) The reason I have not so far much pursued this is it is at first a million times slower than existing methods, but may become far faster than all existing methods, for some niche, in various bizarre mathematical ways. The reason for this is, there is no known bitstrings where x occurs in hash of concat(y,something0) and y occurs in hash of concat(x,something1), but that occurs every time in this model, or at least if the hash function is loosely interpreted similar to lazy-eval or multi-level of some kind.
 
 I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work game-changingly better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
 
