@@ -1,4 +1,6 @@
 # unitarymerkle
+I can in theory, offer a kind of math, or a kind of mathematical service, to help many existing systems work better together, at lower lag, higher bandwidth, without any extra dependence on me or any other system, just to fit such puzzles together better without being "a gatekeeper" etc.
+
 Each node is adjacent to exactly 4 other nodes, in an infinite size undirected-graph. A topology with surprisingly many automorphisms compared to any other topology as far as I know, and each of them uniquely and bigO(1)-addressable by merkle/hash id
 
 Imagine it as a 3-way infinite tree in all directions, and a clipboard/copy/paste node thats the 4th childs, and each node has a single bit of data, and 1 of 3/4 directions, and  4 possible actions (edge colors) from everywhere to 4 other places, navigating a superexponetial/tetration space compared to, what you might expect, a normal-exponential/sub-tetration space, such as 1 googol compared to 1 googolplex is an exponential vs tetration level space.
